@@ -4,6 +4,6 @@
 
 - ## V1.0.0
 
-    ### Guide
+    
 
-    ### Link
+    [Link](https://github.com/colligii/sbui.js/tree/main/v1.0.0)
